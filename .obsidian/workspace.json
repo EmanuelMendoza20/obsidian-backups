@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "66a5e165f0bf187f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a22673cbe0a42fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5649c05dda877814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudio/Coder/Backend/Backend-I/clase-02/Explicación de los Operadores Rest y Spread, Object.keys y Array.includes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explicación de los Operadores Rest y Spread, Object.keys y Array.includes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f23cf802c8db362",
+    "type": "split",
+    "children": [
+      {
+        "id": "751d3aec42ad53bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffbabf137286f060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1a7d7394d17912a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39a5d9f88192f379",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89692523186ed4e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca920fbc43f1de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad93a2232e6e0a86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudio/Facultad/TP-05/Clase 05 - Funciones para cadenas, redirección y manejo de archivos en PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Clase 05 - Funciones para cadenas, redirección y manejo de archivos en PHP"
+            }
+          },
+          {
+            "id": "c90936c07232f55d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudio/Coder/Backend/Backend-I/clase-02/Explicación de los Operadores Rest y Spread, Object.keys y Array.includes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Explicación de los Operadores Rest y Spread, Object.keys y Array.includes"
+            }
+          },
+          {
+            "id": "e9952e36af75f409",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fcd7d852974c8557",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudio/Coder/Backend/Backend-I/clase-02/Explicación de los Operadores Rest y Spread, Object.keys y Array.includes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Explicación de los Operadores Rest y Spread, Object.keys y Array.includes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fcd7d852974c8557",
+  "lastOpenFiles": [
+    "Estudio/Coder/Backend/Backend-I/clase-01/Mutabilidad y CONST en JavaScript.md",
+    "Estudio/Coder/Backend/Backend-I/clase-02/Explicación de los Operadores Rest y Spread, Object.keys y Array.includes.md",
+    "Estudio/Coder/Backend/Backend-I/clase-02",
+    "Estudio/Facultad/TP-05/Clase 05 - Funciones para cadenas, redirección y manejo de archivos en PHP.md",
+    "Estudio/Facultad/TP-05/Clase 05 - Laboratorio II 2024.pdf",
+    "Estudio/Facultad/TP-05/Funciones para cadenas, header, Manejo de archivos de texto.md",
+    "Estudio/Facultad/TP-05",
+    "Estudio/Facultad/TP-03/Prompts TP03.md",
+    "Estudio/Coder/Backend/Backend-I/clase-01",
+    "Estudio/Coder/Backend/Backend-I",
+    "Estudio/Coder/Backend",
+    "Estudio/Coder",
+    "Estudio",
+    "Estudio/Facultad/TP-03/TP 03 - 2024.pdf",
+    "Untitled.md",
+    "Prueba.md",
+    "Estudio/Facultad/TP-03"
+  ]
+}
